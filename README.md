@@ -67,6 +67,31 @@ Validation logic is separated into a **utility class** for better
 
 ---
 
+## ▶️ How to Run the Project
+
+Follow the steps below to run this project locally:
+
+### 1️⃣ Prerequisites
+- Java JDK 8 or above
+- MySQL Server
+- MySQL JDBC Connector (Connector/J)
+
+### 2️⃣ Database Setup
+- Create a MySQL database (e.g. `student_db`)
+- Create a `students` table with appropriate columns
+- Update database credentials in `DBConnection.java`
+
+### 3️⃣ Add JDBC Driver
+- Download MySQL Connector/J
+- Add the `.jar` file to your project classpath (lib folder or IDE configuration)
+
+### 4️⃣ Run the Application
+- Navigate to `MainApp.java`
+- Run the `main()` method
+- Use the console menu to perform CRUD operations
+
+---
+
 ## 📈 Future Enhancements
 
 - GUI using JavaFX / Swing  
