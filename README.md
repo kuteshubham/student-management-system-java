@@ -20,17 +20,19 @@ A **console-based Student Management System** built using **Core Java**, followi
 
 ```
 src/
+│
 ├── dao/
 │ └── StudentDAO.java
+│
 ├── model/
 │ └── Student.java
+│
 ├── util/
 │ ├── DBConnection.java
 │ └── ValidationUtil.java
+│
 ├── main/
 │ └── MainApp.java
-├── lib/
-│ └── mysql-connector-j-9.5.0.jar
 ```
 
 ---
