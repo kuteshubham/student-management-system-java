@@ -18,6 +18,7 @@ A **console-based Student Management System** built using **Core Java**, followi
 
 ## 🧱 Project Structure
 
+```
 src/
 ├── dao/
 │ └── StudentDAO.java
@@ -30,6 +31,7 @@ src/
 │ └── MainApp.java
 ├── lib/
 │ └── mysql-connector-j-9.5.0.jar
+```
 
 ---
 
